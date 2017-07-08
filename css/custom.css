@@ -1,0 +1,46 @@
+/*
+
+1. Add your custom Css styles below
+2. Place the this code in your template:
+
+ <link href="css/custom.css" rel="stylesheet">
+
+*/
+
+.text-title {
+  font-size: 50px;
+}
+
+.text-title2 {
+  font-size: 40px;
+}
+
+.border2 {
+  border: solid;
+  border-radius: 20px;
+  padding: 15px;
+}
+
+.premium {
+  background-color: #ffd6d1;
+}
+
+.snow {
+  color: #8b2323;
+}
+
+.coal {
+  color: black;
+}
+
+.gold {
+  color: #D4AF37;
+}
+
+.bigger {
+padding: 15px 50px;
+font-size: 17px;
+line-height: 1.4666666667;
+border-radius: 6px;
+margin: 5px 0;
+}
