@@ -22,7 +22,7 @@
 }
 
 .premium {
-  background-color: #ffd6d1;
+  background-color:	#faebd7;
 }
 
 .snow {
@@ -38,9 +38,35 @@
 }
 
 .bigger {
-padding: 15px 50px;
-font-size: 17px;
-line-height: 1.4666666667;
-border-radius: 6px;
-margin: 5px 0;
+  padding: 15px 50px;
+  font-size: 17px;
+  line-height: 1.4666666667;
+  border-radius: 6px;
+  margin: 5px 0;
+}
+
+.class2 {
+background:rgba(255,0,0,0.5);
+}
+.center2{
+  text-align: center;
+}
+.paddy {
+  padding: 5px;
+  font-size: 50px;
+}
+.paddy2 {
+  padding-bottom: 20px;
+}
+.biggerbtn {
+  padding: 10px 25px;
+  line-height: 1.4666666667;
+  font-size: 10px;
+  padding-right: 60px !important;
+  border-color: #ffffff
+  color: #ffffff
+  position: relative;
+  border-radius: 50px;
+  margin: 10px 0;
+  background-color: transparent;
 }
