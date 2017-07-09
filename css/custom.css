@@ -12,7 +12,11 @@
 }
 
 .text-title2 {
+  font-size: 50px;
+}
+.text-title3 {
   font-size: 40px;
+  line-height: 40px;
 }
 
 .border2 {
@@ -57,16 +61,4 @@ background:rgba(255,0,0,0.5);
 }
 .paddy2 {
   padding-bottom: 20px;
-}
-.biggerbtn {
-  padding: 10px 25px;
-  line-height: 1.4666666667;
-  font-size: 10px;
-  padding-right: 60px !important;
-  border-color: #ffffff
-  color: #ffffff
-  position: relative;
-  border-radius: 50px;
-  margin: 10px 0;
-  background-color: transparent;
 }
